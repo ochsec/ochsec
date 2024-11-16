@@ -15,5 +15,5 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"></a>
 <a href="https://vlang.io/"><img src="https://img.shields.io/badge/-V-4F87C4?style=flat-square&logo=v&logoColor=white" alt="V"></a>
 <a href="https://golang.org/"><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"></a>
-
+<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"></a>
 </div>
