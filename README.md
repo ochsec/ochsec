@@ -10,6 +10,7 @@
 
 <h2 style="padding-top: 0;">Favorite Programming Languages</h2>
 
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
 <a href="https://www.wolfram.com/language/"><img src="https://img.shields.io/badge/-Wolfram-DD1100?style=flat-square&logo=wolfram&logoColor=white" alt="Wolfram Language"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"></a>
