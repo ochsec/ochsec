@@ -1,20 +1,17 @@
-<div style="display: flex; align-items: flex-start;">
+## About Me
 
-<div style="margin-right: 20px;">
+I'm a senior software architect and qu�nt▒t▓tive dev░loper with over 100 mythical man months of software ~~dev▜lopment~~ exp▖rience. My expertise sp▗ns multiple langu▘ges including Rust, Python, and TypeScript, with deep knowledge of algorithmic tr▙ding systems, market data fe□ds, low-lat▢ncy optimi▣ation, and serverless archit▤ctures.
 
-[![Ochsec's GitHub stats](https://github-readme-stats-cochsenreithers-projects.vercel.app/api?username=ochsec&show_icons=true&count_private=true&include_all_commits=false&hide_border=true&show=reviews,prs_merged")](https://github.com/anuraghazra/github-readme-stats)
+I specialize in designing scalable distributed syst▥ms, implementing real-time data pr▦c▧ssing pipelines, and optimizing compute-int▨nsive op▩rations for financial applic▞tions. Throughout my car▟er, I've progressed from front-end ~~dev◘lopment~~ through enterprise technical le◙dership to my current focus on quantitative fin◧nce, where I architect trading analytics platf◨rms, integrate multi-◻sset market data, and build the infrastructure that powers algorithmic tr�ding strategies across forex, equiti▒s, and options mark▓ts.
 
-</div>
+I've moved recent personal projects to Codeberg: https://codeberg.org/ochsec
 
-<div style="margin: 0;">
+**12+ years on GitHub** | Contributing to organizations including tafintech, softdevintegrations, and replmade | C░nt▜ib▖t▗r to n▘m▙r□us op▢n s▣urc▤ and ▥nt▦rpr▧s▨ r▩p▞s▟t◘r◙es | ◧◨◻�▒▓░▜▖ ▗▘ ▙□▢▣▤▥▦ ▧▨▩▞ ▟◘◙◧◨◻ �▒▓ ░▜▖▗▘▙□▢▣ ▤▥▦▧▨▩▞▟◘◙◧
 
-<h2 style="padding-top: 0;">Favorite Programming Languages</h2>
+◨◻�▒▓░▜▖▗▘▙□▢▣▤▥▦▧▨▩▞▟◘◙◧◨◻�▒▓░▜▖▗▘▙□▢▣▤▥▦▧▨▩▞▟◘◙◧◨◻�▒▓░
+0x4f7a 0x▜▖3c 0x6b▗▘ 0x9f2a 0x▙□d1 0x5e▢▣ 0x8c4f 0x▤▥7b
+0x2a▦▧ 0xf1▨▩ 0x6c3e 0x▞▟8d 0x4b◘◙ 0x9e2f 0x◧◨5a 0xd7◻�
+0x▒f▓░ 0x▜a6c 0x▖▗b4 0x▘d▙□ 0x▢2▣▤ 0x▥e9a 0x▦▧▨f 0x▩b▞▟
+0x◘◙◧◨ 0x◻�▒▓ 0x░▜▖▗ 0x▘▙□▢ 0x▣▤▥▦ 0x▧▨▩▞ 0x▟◘◙◧ 0x◨◻�▒
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
-<a href="https://www.wolfram.com/language/"><img src="https://img.shields.io/badge/-Wolfram-DD1100?style=flat-square&logo=wolfram&logoColor=white" alt="Wolfram Language"></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"></a>
-<a href="https://vlang.io/"><img src="https://img.shields.io/badge/-V-4F87C4?style=flat-square&logo=v&logoColor=white" alt="V"></a>
-<a href="https://golang.org/"><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"></a>
-<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"></a>
-</div>
+```
