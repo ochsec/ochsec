@@ -1,3 +1,3 @@
 ## About Me
 
-I'm done with github. I've moved recent personal projects to Codeberg: https://codeberg.org/ochsec.
+I've moved recent personal projects to Codeberg: https://codeberg.org/ochsec. I still contribute to github hosted projects from time to time.
